@@ -1,0 +1,2 @@
+# Conflitos
+Projeto em dupla
