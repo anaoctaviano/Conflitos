@@ -2,9 +2,10 @@
 Projeto em dupla
 
 ##Nome do aluno do PC
-nome = "Murilo"
+nome = "Ana"
 
 ##Idade do aluno do PC
-idade = "15"
+idade = "16"
 
-print("\nO nome do aluno que esta no PC é :{Nome}, e sua idade é :{idade}")
+print(f"\nOlá, {nome}")
+print(f"Sua idade é {idade})
