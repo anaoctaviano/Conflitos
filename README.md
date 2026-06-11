@@ -8,4 +8,4 @@ nome = "Ana"
 idade = "16"
 
 print(f"\nOlá, {nome}")
-print(f"Sua idade é {idade})
+
