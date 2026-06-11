@@ -1,10 +1,10 @@
 # Conflitos
 Projeto em dupla
 
-# Mostrando o nome e a idade do aluno no PC
+##Nome do aluno do PC
+nome = "Murilo"
 
-nome = Ana 
-idade = 16
+##Idade do aluno do PC
+idade = "15"
 
-print(f"Olá, {nome}!")
-print(f"Você tem {idade} anos")
+print("\nO nome do aluno que esta no PC é :{Nome}, e sua idade é :{idade}")
